@@ -1,5 +1,5 @@
 # Credit_Crad_Financial_Dashboard
-Poower BI Dashboard
+Power BI Dashboard
 Project objective: 
 To develop a comprehensive credit card dashboard that provides real time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
