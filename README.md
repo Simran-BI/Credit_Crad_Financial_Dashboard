@@ -4,10 +4,7 @@ Project objective:
 To develop a comprehensive credit card dashboard that provides real time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 DAX used:
-. SWITCH()
-. DIVIDE()
-. CALCULATE()
-. SUM()
+SWITCH(),DIVIDE(),CALCULATE(),SUM().
 
 
 Insights: Overview YTD
